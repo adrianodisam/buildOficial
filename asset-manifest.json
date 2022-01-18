@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.73a45d9c.chunk.css",
+    "main.css": "/static/css/main.4baf6d60.chunk.css",
     "main.js": "/static/js/main.ab3a62da.chunk.js",
     "main.js.map": "/static/js/main.ab3a62da.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e5a76b0f.js",
@@ -8,7 +8,7 @@
     "static/js/2.034095ba.chunk.js": "/static/js/2.034095ba.chunk.js",
     "static/js/2.034095ba.chunk.js.map": "/static/js/2.034095ba.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.73a45d9c.chunk.css.map": "/static/css/main.73a45d9c.chunk.css.map",
+    "static/css/main.4baf6d60.chunk.css.map": "/static/css/main.4baf6d60.chunk.css.map",
     "static/js/2.034095ba.chunk.js.LICENSE.txt": "/static/js/2.034095ba.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/EBGaramond-Italic-VariableFont_wght.91f3192d.ttf",
     "static/media/css-svgrepo-com.a4ae1cf4.svg": "/static/media/css-svgrepo-com.a4ae1cf4.svg",
@@ -17,14 +17,14 @@
     "static/media/github.a855c397.png": "/static/media/github.a855c397.png",
     "static/media/html-svgrepo-com.5357e13f.svg": "/static/media/html-svgrepo-com.5357e13f.svg",
     "static/media/javascript-svgrepo-com.63b0dda8.svg": "/static/media/javascript-svgrepo-com.63b0dda8.svg",
+    "static/media/Banner.module.css": "/static/media/kisspng-wire-idea-wiring-diagram-hand-painted-curve-bulb-vector-5a8f42e8c79d59.9307899915193382168176.2ba85d6f.png",
     "static/media/node-svgrepo-com.23f2929a.svg": "/static/media/node-svgrepo-com.23f2929a.svg",
-    "static/media/Banner.module.css": "/static/media/pexels-negative-space-169573-removebg-preview.bbf3583b.png",
     "static/media/react-svgrepo-com.4fd6a8fa.svg": "/static/media/react-svgrepo-com.4fd6a8fa.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.e5a76b0f.js",
     "static/js/2.034095ba.chunk.js",
-    "static/css/main.73a45d9c.chunk.css",
+    "static/css/main.4baf6d60.chunk.css",
     "static/js/main.ab3a62da.chunk.js"
   ]
 }
