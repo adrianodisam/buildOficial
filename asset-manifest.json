@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.04eca079.chunk.css",
+    "main.css": "/static/css/main.456a2bc1.chunk.css",
     "main.js": "/static/js/main.ab3a62da.chunk.js",
     "main.js.map": "/static/js/main.ab3a62da.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e5a76b0f.js",
@@ -8,7 +8,7 @@
     "static/js/2.034095ba.chunk.js": "/static/js/2.034095ba.chunk.js",
     "static/js/2.034095ba.chunk.js.map": "/static/js/2.034095ba.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.04eca079.chunk.css.map": "/static/css/main.04eca079.chunk.css.map",
+    "static/css/main.456a2bc1.chunk.css.map": "/static/css/main.456a2bc1.chunk.css.map",
     "static/js/2.034095ba.chunk.js.LICENSE.txt": "/static/js/2.034095ba.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/EBGaramond-Italic-VariableFont_wght.91f3192d.ttf",
     "static/media/css-svgrepo-com.a4ae1cf4.svg": "/static/media/css-svgrepo-com.a4ae1cf4.svg",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.e5a76b0f.js",
     "static/js/2.034095ba.chunk.js",
-    "static/css/main.04eca079.chunk.css",
+    "static/css/main.456a2bc1.chunk.css",
     "static/js/main.ab3a62da.chunk.js"
   ]
 }
