@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.df4a8ee7.chunk.css",
-    "main.js": "/static/js/main.fa597322.chunk.js",
-    "main.js.map": "/static/js/main.fa597322.chunk.js.map",
+    "main.css": "/static/css/main.3309f106.chunk.css",
+    "main.js": "/static/js/main.1a667ff9.chunk.js",
+    "main.js.map": "/static/js/main.1a667ff9.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e5a76b0f.js",
     "runtime-main.js.map": "/static/js/runtime-main.e5a76b0f.js.map",
     "static/js/2.034095ba.chunk.js": "/static/js/2.034095ba.chunk.js",
     "static/js/2.034095ba.chunk.js.map": "/static/js/2.034095ba.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.df4a8ee7.chunk.css.map": "/static/css/main.df4a8ee7.chunk.css.map",
+    "static/css/main.3309f106.chunk.css.map": "/static/css/main.3309f106.chunk.css.map",
     "static/js/2.034095ba.chunk.js.LICENSE.txt": "/static/js/2.034095ba.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/EBGaramond-Italic-VariableFont_wght.91f3192d.ttf",
     "static/media/css.e99701ad.svg": "/static/media/css.e99701ad.svg",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.e5a76b0f.js",
     "static/js/2.034095ba.chunk.js",
-    "static/css/main.df4a8ee7.chunk.css",
-    "static/js/main.fa597322.chunk.js"
+    "static/css/main.3309f106.chunk.css",
+    "static/js/main.1a667ff9.chunk.js"
   ]
 }
