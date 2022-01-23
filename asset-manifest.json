@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.3309f106.chunk.css",
-    "main.js": "/static/js/main.1a667ff9.chunk.js",
-    "main.js.map": "/static/js/main.1a667ff9.chunk.js.map",
+    "main.css": "/static/css/main.225d7dd4.chunk.css",
+    "main.js": "/static/js/main.70d3b28a.chunk.js",
+    "main.js.map": "/static/js/main.70d3b28a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e5a76b0f.js",
     "runtime-main.js.map": "/static/js/runtime-main.e5a76b0f.js.map",
     "static/js/2.034095ba.chunk.js": "/static/js/2.034095ba.chunk.js",
     "static/js/2.034095ba.chunk.js.map": "/static/js/2.034095ba.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.3309f106.chunk.css.map": "/static/css/main.3309f106.chunk.css.map",
+    "static/css/main.225d7dd4.chunk.css.map": "/static/css/main.225d7dd4.chunk.css.map",
     "static/js/2.034095ba.chunk.js.LICENSE.txt": "/static/js/2.034095ba.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/EBGaramond-Italic-VariableFont_wght.91f3192d.ttf",
-    "static/media/css.e99701ad.svg": "/static/media/css.e99701ad.svg",
+    "static/media/css.9873aed9.svg": "/static/media/css.9873aed9.svg",
     "static/media/doceMania.2c74c74b.png": "/static/media/doceMania.2c74c74b.png",
     "static/media/fotoAdrianoSobre.0b6c9f1d.jpg": "/static/media/fotoAdrianoSobre.0b6c9f1d.jpg",
     "static/media/github.a855c397.png": "/static/media/github.a855c397.png",
-    "static/media/html.f0d5660b.svg": "/static/media/html.f0d5660b.svg",
-    "static/media/javascript-svgrepo-com.63b0dda8.svg": "/static/media/javascript-svgrepo-com.63b0dda8.svg",
+    "static/media/html.77fd5832.svg": "/static/media/html.77fd5832.svg",
+    "static/media/javascript-svgrepo-com.e5d8e576.svg": "/static/media/javascript-svgrepo-com.e5d8e576.svg",
     "static/media/Banner.module.css": "/static/media/kisspng-wire-idea-wiring-diagram-hand-painted-curve-bulb-vector-5a8f42e8c79d59.9307899915193382168176.2ba85d6f.png",
-    "static/media/node-svgrepo-com.23f2929a.svg": "/static/media/node-svgrepo-com.23f2929a.svg",
-    "static/media/react-svgrepo-com.4fd6a8fa.svg": "/static/media/react-svgrepo-com.4fd6a8fa.svg"
+    "static/media/node-svgrepo-com.375c6885.svg": "/static/media/node-svgrepo-com.375c6885.svg",
+    "static/media/react-svgrepo-com.55f87eb8.svg": "/static/media/react-svgrepo-com.55f87eb8.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.e5a76b0f.js",
     "static/js/2.034095ba.chunk.js",
-    "static/css/main.3309f106.chunk.css",
-    "static/js/main.1a667ff9.chunk.js"
+    "static/css/main.225d7dd4.chunk.css",
+    "static/js/main.70d3b28a.chunk.js"
   ]
 }
