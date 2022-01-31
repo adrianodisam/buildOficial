@@ -1,29 +1,32 @@
 {
   "files": {
-    "main.css": "/static/css/main.b6af392b.chunk.css",
-    "main.js": "/static/js/main.2faa9245.chunk.js",
-    "main.js.map": "/static/js/main.2faa9245.chunk.js.map",
+    "main.css": "/static/css/main.78469535.chunk.css",
+    "main.js": "/static/js/main.8d66c0bf.chunk.js",
+    "main.js.map": "/static/js/main.8d66c0bf.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e5a76b0f.js",
     "runtime-main.js.map": "/static/js/runtime-main.e5a76b0f.js.map",
     "static/js/2.034095ba.chunk.js": "/static/js/2.034095ba.chunk.js",
     "static/js/2.034095ba.chunk.js.map": "/static/js/2.034095ba.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.b6af392b.chunk.css.map": "/static/css/main.b6af392b.chunk.css.map",
+    "static/css/main.78469535.chunk.css.map": "/static/css/main.78469535.chunk.css.map",
     "static/js/2.034095ba.chunk.js.LICENSE.txt": "/static/js/2.034095ba.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/EBGaramond-Italic-VariableFont_wght.91f3192d.ttf",
-    "static/media/css.9873aed9.svg": "/static/media/css.9873aed9.svg",
+    "static/media/ambientalista.3857c7a7.png": "/static/media/ambientalista.3857c7a7.png",
+    "static/media/css.d4a83d23.svg": "/static/media/css.d4a83d23.svg",
+    "static/media/doceMania.2c74c74b.png": "/static/media/doceMania.2c74c74b.png",
+    "static/media/embreve.a1521912.png": "/static/media/embreve.a1521912.png",
     "static/media/fotoAdrianoSobre.0b6c9f1d.jpg": "/static/media/fotoAdrianoSobre.0b6c9f1d.jpg",
     "static/media/github.a855c397.png": "/static/media/github.a855c397.png",
     "static/media/html.77fd5832.svg": "/static/media/html.77fd5832.svg",
-    "static/media/javascript-svgrepo-com.e5d8e576.svg": "/static/media/javascript-svgrepo-com.e5d8e576.svg",
+    "static/media/javascript-svgrepo-com.f20dec15.svg": "/static/media/javascript-svgrepo-com.f20dec15.svg",
     "static/media/node-svgrepo-com.375c6885.svg": "/static/media/node-svgrepo-com.375c6885.svg",
-    "static/media/react-svgrepo-com.55f87eb8.svg": "/static/media/react-svgrepo-com.55f87eb8.svg",
+    "static/media/react-svgrepo-com.9fe0288f.svg": "/static/media/react-svgrepo-com.9fe0288f.svg",
     "static/media/Banner.module.css": "/static/media/—Pngtree—cool technology global network map_5268643.e5cf6c7c.png"
   },
   "entrypoints": [
     "static/js/runtime-main.e5a76b0f.js",
     "static/js/2.034095ba.chunk.js",
-    "static/css/main.b6af392b.chunk.css",
-    "static/js/main.2faa9245.chunk.js"
+    "static/css/main.78469535.chunk.css",
+    "static/js/main.8d66c0bf.chunk.js"
   ]
 }
